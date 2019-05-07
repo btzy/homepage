@@ -74,6 +74,10 @@ a:hover {
 }
 
 /* Detailed List */
+.detailedlist>li {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
 .detailedlist>li>.header {
     font-weight: bold;
 }
