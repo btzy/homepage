@@ -59,6 +59,9 @@ a:hover {
 .semibold {
     font-weight: 600;
 }
+.underline {
+    text-decoration: underline;
+}
 
 /* Title */
 #title .profileimage {
