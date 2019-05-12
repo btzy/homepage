@@ -1,0 +1,9 @@
+Taken in AY17/18 Sem 1 under Prof Chew Tuan Seng.
+
+Prof Chew is able to articulate the concepts and formulae necessary for this module clearly.  However, lectures are generally unengaging and slow and hence may put students to sleep.  Webcast is available for this module.
+
+The first half of the module contains concepts that have been covered in a H2 Mathematics course (e.g. differentiation, integration, integration techniques), and will be easy for those who have taken such a course.  The second half covers more advanced topics such as partial differentiation and mathematical modelling.
+
+Tutorials are conducted by postgraduate students.
+
+The midterms consists of only MCQ, allowing those with graphing calculators to obtain the answers via brute force.  The finals were open-ended questions where some working was necessary.  Most formulae used in the module are left unproven (or are proven in lectures but proofs will not be necessary in exams); it is mostly application of given formulas.  Little creativity is needed for this module, and tests are focused on speed.

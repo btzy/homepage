@@ -1,0 +1,9 @@
+Taken in AY18/19 Sem 1 under Prof Soo Yuen Jien (aka Uncle Soo).
+
+This module covers the various parts that come together to form an operating system, including process and memory management, file systems, and synchronization (e.g. semaphores, mutexes).  It explains why each process on your computer can execute independently of all the other processes.  Some C programming knowledge is assumed - CS2100's coverage of C is generally sufficient, but more experience with C will make lab assignments easier.
+
+This module is rather content-heavy, but logical reasoning might be useful due to the style of exams set by Uncle Soo (the questions sometimes require creative thinking, and cannot be directly regurgitated from your help sheet).  I would liken this module to CS2100.
+
+Uncle Soo makes lectures really engaging and easy to follow - amongst all the lecturers whom I have had, he is amongst the best (in terms of teaching ability).  There are weekly tutorials and fortnightly lab sessions, and each lab assignment consists of a in-class demo to the lab TA and a graded homework portion (which requires writing C code).  In general, I've quite enjoyed this module (both the lectures and labs).
+
+Midterms and finals are closed-book (with help sheet).  There are no group projects for this module.

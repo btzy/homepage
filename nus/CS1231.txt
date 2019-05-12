@@ -1,0 +1,11 @@
+Taken in AY17/18 Sem 1 under Prof Terence Sim Mong Cheng and Prof Aaron Tan Tuck Choy (School of Computing).
+
+This module is a logic/mathematical module which introduces students to mathematical proofs.  It dabbles with various topics such as propositional logic, number theory, sets, relations & functions, permutations & combinations, probability, and graphs.  Students are expected to be able to be able to reason logically, comprehend mathematical proofs, and write proofs of their own.
+
+This module is difficult for most students because many are new to mathematical proofs.  Prior knowledge in mathematical proofs should make this module a piece of cake.
+
+Both Prof Terence and Prof Aaron are competent lecturers that are able to engage students well.  Through various (and sometimes interesting) illustrations, mathematical reasoning is imparted to students in a manageable manner.
+
+Tutorials are conducted by undergraduate or postgraduate students who have taken this module, using questions prepared by Prof Terence and Prof Aaron.
+
+Midterms and finals are open-book; it is helpful to have a list of definitions and theorems (taken from the lecture slides) when taking the exams.  Novel concepts may be presented in the exam, and students are required to use logical reasoning to arrive at valid conclusions.  Some creativity may be needed for questions that require a proof.

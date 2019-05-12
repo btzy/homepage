@@ -84,3 +84,8 @@ a:hover {
 .detailedlist>li>.date {
     color: #888;
 }
+
+/* Modules */
+.modulegroup {
+    font-weight: bold;
+}

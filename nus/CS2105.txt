@@ -1,0 +1,11 @@
+Taken in AY17/18 Sem 2 under Prof Zhou Lifeng.
+
+This module introduces the five layers in the Internet Protocol stack - application, transport, network, link, and physical - and how these layers come together to make the Internet work.  It also covers supporting protocols such as ARP, ICMP, DHCP, and DNS.  Some secondary school level mathematics is required to comprehend the more quantitative concepts that are covered.
+
+This module is somewhat content-heavy, as many details of the various protocols in the Internet Protocol stack are covered and these details may be tested in the exams.  Those who have never peeked into the inner workings of the Internet before may find some difficulty in absorbing the large amount of content.
+
+Midterms and finals are closed-book (with help sheet), and consist primarily of MCQs or questions that have a single numerical answer.  Students are not required to write any explanation or elaboration for their answers.  There are four graded assignments, and they are individual take-home assignments that require students to write Java code to do some networking-related tasks.  These assignments are graded based on how well the code (when compiled and interpreted/executed) does the tasks specified, without regard for coding style or structure.  As such, both the assignments and exams are highly focused on outcomes (i.e. getting the correct answers) rather than the thought processes that students go through to achieve those outcomes.  Personally, I prefer this form of assessments because they give students the freedom to solve the tasks in any workable way.  However, this means that carelessness is penalised rather harshly, so do check your work thoroughly before submission.
+
+There are no group projects for this module.
+
+Prof Zhou explains the concepts quite clearly and at a reasonable pace, so it should be easy to follow his lectures (assuming that you do not forget what has been taught previously).  Tutorials are rather straightforward, and should be relatively simple with understanding of the main concepts from the lectures.  Prof Zhou is quite active on the IVLE forum.

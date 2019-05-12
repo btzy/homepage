@@ -1,0 +1,13 @@
+Taken in AY17/18 Sem 1 under Prof Ooi Wei Tsang.  This is the first time this module is offered.
+
+Prof Ooi is able to illustrate the programming concepts of this module clearly and with adequate examples.
+
+This module seeks to familiarise students with various programming paradigms, such as abstraction, object-oriented programming, functional programming, and task-based parallelism.  It is taught in Java, but does not expect students to have prior Java knowledge.
+
+This module is relatively manageable, and should be extremely simple for anyone who has worked on a small- to medium-sized Java, C#, or Visual Basic project before.  For those with no experience with those three languages, some work may be needed to appreciate object lifetime management in Java (a sound understanding of Java's reference vs. value types is necessary for the later part of the module).
+
+A large portion of the grade for this module comes from weekly lab assignments that require students to write code based on concepts taught during the lecture.  Lab assignments from the first half of the module (object-oriented programming) may be tedious, but lab assignments from the latter half of the module were mostly interesting.
+
+The labs are conducted either by Prof Ooi or by his TAs.
+
+Midterms and finals are written, open-book exams that test on the Java programming language and the various programming paradigms.

@@ -1,0 +1,13 @@
+Taken in AY18/19 Sem 1 under Prof Leung Ka Hin.
+
+The primary focus of this module is algebraic structures such as groups, rings, and fields.  Despite what the module description might suggest, most of the module is taught like a conventional algebra module (i.e. with focus on proofs related to groups, rings, and fields).  Only about three weeks of lectures deal with coding theory and the applications of these algebraic structures.
+
+As compared to MA2101 (which is a prerequisite for this module), the content of MA3218 is somewhat easier to grasp.  The first half of the semester (which covers groups) are generally quite intuitive.  The second half of the semester (which covers rings and fields) require more effort to attain the same level of proficiency.
+
+As this module has a very small class size (6 students in my semester), the lecturer is able to give additional help to students that struggle with the content.  Lectures are conducted in a classroom so there are no webcasts, but the lecture slides alone usually contain sufficient detail to understand the proofs covered during the lecture.  Like most other mathematics modules, each lecture builds upon the previous lectures, so it is strongly recommended to attend all lectures.
+
+There are weekly tutorials, and they are conducted by Prof Leung himself.  Students are expected to have attempted the tutorial questions before coming for the tutorial session, and they will need to present their solutions to their peers during the tutorial session.  Prof Leung reads through the solutions attempted by each student (students submit their solutions via IVLE a few hours before the start of the tutorial), and during the tutorial he highlight the errors made by each student.  The need for students to submit their solutions provides them with an added disincentive to fall behind in their learning.
+
+Prof Leung's accent may take some time getting used to, but there should be no significant communication difficulty in his lectures and tutorials.
+
+Midterms and finals are a mix of proof-based questions and computational questions.  As the exams may be rather lengthy, practising on past year papers is important to ensure speed and accuracy.

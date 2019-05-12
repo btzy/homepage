@@ -1,0 +1,13 @@
+Taken in AY17/18 Sem 1 under Prof Zhang De-Qi.
+
+Prof Zhang demonstrates a very strong mathematical understanding on the course material and beyond, and there is no doubt in his knowledge in Linear Algebra.  He is able to critique students' questions in class and in forums in a logical and mathematical manner.
+
+The module is extremely focused in proving theorems from ground up, but lacks sufficient high-level conceptual explanations (e.g. geometric interpretations) for many students when such understanding is unnecessary for the proofs.  This resulted in difficulty is grasping later topics in this module.  This difficulty is compounded by the fact that each chapter builds on the previous chapters.  Webcast is available for this module, and they are very helpful when you need to slow things down or pause the lecture to ponder about certain statements.
+
+The module starts by introducing vector spaces (e.g. spans, subspaces, linear combinations), then proceeds to study linear transformations in depth (e.g. basis, representation matrices, eigenstuff, Jordan canonical forms), and concludes with a chapter on quadratic forms.
+
+All tutorials are also conducted by Prof Zhang himself, and they are an extension of the things covered in lectures.
+
+Exams are extremely proof-oriented, so a strong mathematical understanding would be useful (as opposed to Linear Algebra I which focuses on computation of answers).
+
+Expect to put in quite a bit of effort on this module (relative to other modules).

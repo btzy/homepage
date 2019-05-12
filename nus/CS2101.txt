@@ -1,0 +1,11 @@
+Taken in AY18/19 Sem 1.  Tutored by Ms Diana Chung; module coordinated by Ms Anita Toh.
+
+This module is taken by computer science students together with CS2103T to fulfil SoC requirements.  It is coordinated and run by staff from the Centre for English Language Communication (CELC).  The first half of the semester teaches general communication and workplace interaction skills, while the second half of the semester is heavily linked to the software engineering project from CS2103T (such as writing user/developer guides and making presentations for the CS2103T project).
+
+The module is conducted in a similar style to ES2660 - contact time is via sectional groups of 20 students each, and class participation is expected.  The 20 students in each sectional group will be in the same CS2103T tutorial.  There are no midterms or finals, and the S/U option can be exercised on this module.
+
+Students need to form two sets of groups in this module: in the first half of the semester (for work and assessment not directly related to CS2103T), and in the second half of the semester (this will be the grouping for the CS2103T software engineering project).  When I took the module, each group was required to contain at least one male, one female, one Singaporean, and one non-Singaporean student, and no more than two people in the same group for the first half of the semester were allowed to share a group for the second half.  Generally, students optimise for their CS2103T group (i.e. the second half of the semester) as it would have an impact on their CS2103T grade.
+
+At the end of the semester, students are required to produce a project portfolio page (PPP) that summarises their contributions to the CS2103T project.  This PPP is an extract of relevant sections from the user and developer guides of the CS2103T project, and is graded by both CS2103T and CS2101, but to different requirements.  As the length of the PPP is limited to ten pages, there is some contention as to which module's requirements the limited PPP real estate should be allocated to.  Since the S/U option can be used for CS2101 but not CS2103T, the choice is clear for many.
+
+There are at least three in-class presentations (on content of a non-technical nature) for this module, and some amount of preparation work is required for each of them.

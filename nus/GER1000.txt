@@ -1,0 +1,11 @@
+Taken in AY17/18 Sem 2.
+
+This is a compulsory module for all students (regardless of faculty), and all lectures are online.  Face-to-face tutorials are conducted fortnightly.
+
+This module provides a basic understanding of statistical underpinnings of the design, execution, and analysis of research studies.  Basic probability and graphs (discrete mathematics) are covered as well.  However, each topic is covered in very little depth.
+
+This module is purely quantitative in nature, and has some overlap with CS1231 and MA1100.  It will be be breeze if you have taken either of those modules.
+
+There is a group project component in this module, where students will analyse a research paper and a news article about the paper.  Students are expected to produce a poster and short report of their analysis.  The demonstration of quantitiative reasoning is key in both the poster and report.
+
+Midterms, finals, and weekly quizzes are all MCQ.  No explanation or elaboration of any kind is required, and questions are meant to be have a definite (mathematically sound) answer.  With some amount of mathematical reasoning and synthesis of the things that are taught in the online lectures, one should be able to correctly answer all questions.
