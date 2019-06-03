@@ -1,0 +1,11 @@
+Taken in AY18/19 Sem 2 under Prof Yu Haifeng.
+
+This module covers the theoretical foundation of shared-memory and distributed-memory systems.  Focus is placed on the formal definitions of key concepts in such systems, as well as the algorithms associated with those concepts.  Topics for shared-memory systems include: critical sections (Peterson's, Lamport's bakery, and Dekker's algorithms), semaphores, monitors, and memory consistency.  Topics for distributed-memory systems include: clocks, consistent global snapshots, causal order, total order (Skeen's algorithm), leader election, consensus (FLP theorem), and self-stabilisation.
+
+Only midterms (40%) and finals (60%) are graded.  Homework questions are generally given after every lecture for students to check their understanding, but they are not collected and not graded.  While this module is specified to have two hours of lecture followed by an hour of tutorial, it is functionally three hours of lecture.
+
+This is an extremely proof-based module.  Expect to spend most of the time (during both lectures and exams) proving or disproving statements.  Typical exam questions do not tell students if a given statement is true or false - students have to decide if the statement is true on their own, and then prove (or disprove) it.  As exam questions do not generally "guide" students in the correct direction, confidence in one's own answers is important.  Some background in mathematical reasoning might help with this module.
+
+Lectures proceed at a reasonable pace; it is generally slower than most mathematics modules.  As such, most concepts can be grasped during the lecture.
+
+Midterms are closed-book (without help sheet) while finals are open-book.  There are no group projects for this module.

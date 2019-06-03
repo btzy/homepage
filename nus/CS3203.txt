@@ -1,0 +1,35 @@
+Taken in AY18/19 Sem 2 under Prof Zhao Jin and Prof Bimlesh Wadhwa.
+
+Overview:
+This module is a software engineering module, and it revolves around a team software engineering project that spans the entire semester.  This team project is to be written in C++, and it forms 60% of the final grade.  Prior C++ experience is likely to be useful.  There are no final exams.
+
+Workload:
+This is an 8MC module, so twice of the usual workload is expected.  The workload is still rather high, and it varies significantly across teams due to the different amounts of programming experience and different grade expectations of each team.
+
+Team formation:
+Students work in teams of six for this module in a hybrid group formation system - students first form groups of three (where they can choose their own groupmates), and the groups are paired up at random to form the final team that comprises of six people.  After forming the team of six, the original groups of three are immaterial.  As the team project forms the majority of the final grade, it is important to choose appropriate groupmates to form the group of three.
+
+Project:
+Teams are required to build a command-line static program analyser from scratch.  Unlike CS2103, the requirements are specified clearly by the teaching team (so all teams produce prototypes that have the same functions), and all teams start from scratch (i.e. there is no pre-written code to begin with).  Because of this, there are many design decisions that need to be made, and the overall workload is much higher than CS2103.  A small portion of the project marks is awarded to extensions, where teams can implement additional features (that may differ from those implemented by other teams).
+
+Project Grading:
+Around 55% of the project marks are awarded by testing the team's prototype using test inputs supplied by the teaching team - this component is solely based on the correctness and efficiency of the team's prototype.  The rest of the project marks come from a few written reports and a final presentation (all are team work).  There are three development checkpoints (called "iterations") - at each iteration, teams must submit deliverables such as their source code and written report.
+
+Project Consultations:
+There are weekly compulsory team consultation sessions with an assigned TA.  These sessions seek to ensure that students do not lag behind in the development of their prototype.  They may also be used for discussion of their design decisions and written report.
+
+Lectures and Tutorials:
+Lectures and tutorials are geared towards the project.  They cover the project specification (e.g. syntax of the program that is being analysed, and meaning of queries for the static program analyser), design decisions, basic optimisation, and general guidelines for managing a project at this scale.  Student participation and in-class discussions/presentations are expected.
+
+Non-project Graded Components:
+Non-project components include two tests (18% of final grade), some online quizzes, attendance, and participation.  Both tests contain questions that check your understanding of the project specification.  The second test also contains questions about the other topics covered in the lectures and tutorials.
+
+Programming Language:
+C++ must be used for this project.  Modern C++ (C++11/14/17) may be used to the extent that Visual Studio is able to compile.  Third-party libraries (e.g. Boost, Abseil, Flex/Bison) are prohibited (but if you understand how they work and like the design abstractions they provide, you can of course implement them yourself).
+While C++ is mandatory for this project, this module does not teach C++ at all.  Students are expected to pick up C++ on their own.  As C++ is a rather difficult language to learn and debug (due to its performance-centric design), a lack of experience with C++ (or other languages with similar paradigms like Rust and D) might therefore pose a challenge to students.  Familiarising yourself with C++ before the start of the semester might be a good idea.
+
+Development Environment:
+Grading is done on Windows and code is compiled with Visual Studio, so teams must ensure that Visual Studio is able to compile their code properly.  Teams may either use a Visual Studio Solution (easier, but works on Windows only), or use CMake (harder, but works on Windows, Mac, and Linux).  There is no requirement on the use of any particular IDE for development, but Visual Studio is recommended.
+
+Lecturers:
+Prof Zhao and Prof Bimlesh are relatively easy-going, so lectures are usually quite casual.  They also respond within a reasonable time on the IVLE forums.
