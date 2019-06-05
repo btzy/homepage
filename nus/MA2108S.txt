@@ -1,0 +1,19 @@
+Taken in AY18/19 Sem 2 under Prof Sun Rongfeng.
+
+This module starts off by introducing metric spaces, and then covers concepts such as limit points, compactness, connectedness, and convergence.  These concepts are taught using general metric spaces (not specifically real or complex numbers), and hence overlap somewhat with the content of MA3209 Mathematical Analysis III.  A good intuition and an ability to make sense of abstract concepts will be useful in this part of the module.
+
+The second part of this module covers subsequential limits and various tests for convergence (of real and complex numbers).  This part is somewhat content-heavy due to the number of convergence tests; as it is rather time-consuming to derive these results and it is difficult to intuitively grasp some of the convergence tests, these tests are best memorised.
+
+Finally, the module covers the continuity of functions, as well as how it relates to compactness and connectedness.
+
+As expected from an S-module, this module is heavily proof-based, and covers more topics than the normal version.  However, it should not feel rushed as long as one can maintain an intuition of the topics covered throughout the semester.
+
+This module has midterms (35%) and finals (50%), both of which are closed-book (without help sheet).  The remaining portion of the grade comes from weekly homework questions.
+
+Prof Sun is able to give students a good intuition of the abstract concepts involved in this module, which is rather useful for appreciating these abstract concepts.  Most concepts were illustrated clearly in his lectures.  He also clarifies students' doubts after every lecture, which helps ensure that students do not fall behind in understanding the key concepts.
+
+There are no lecture notes and no webcasts - Prof Sun solely uses the whiteboard for teaching.  As such, it is helpful to attend lectures and take down notes during the lectures.  The main reference book is Principles of Mathematical Analysis by Walter Rudin, and it is followed closely throughout the module, allowing students to do revision by using the relevant chapters of this book.
+
+Tutorials generally consist of 4-6 questions of varying difficulty, and students are expected to have completed all the tutorial questions before the session.  Students are usually chosen during the tutorial session to present their solutions to the class.
+
+Personal note:  I took this module after being persuaded by a friend (who has also written a review of this module), and I've no regrets taking it!
