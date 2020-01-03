@@ -1,0 +1,17 @@
+Taken in AY19/20 Sem 1 under Prof Yair Zick.
+
+This module is a so-called "mezzanine" module - it is dual-coded, undergraduate students take the module as CS4261 and postgraduate students take this module as CS5461.  CS4261 students take a final exam, while CS5461 students do a pair project in place of the final exam.  (I did CS4261.)
+
+This module covers the basics of game theory (Nash equilibrium, social optimality), cooperative games (core, Shapley value), and some mechanism design.  Various types of games (routing games, various instances of cooperative games, Nash bargaining) and mechanisms (stable matching, allocation of indivisible goods, rent division, auctions, facility location on a line) are discussed.
+
+Graded components:
+- Assignments ×8 (30%)
+- In-class quizzes ×2 (30%)
+- Final exam (35%)
+- Class participation (5%)
+
+There are eight graded assignments throughout the course of this module; these assignments are take-home assignments and students generally have at least one week to complete each assignment.  There are two in-class quizzes and one final exam (CS5461 students do not have a final exam, but still need to complete the two quizzes).  The weekly tutorials are mainly used to discuss the solutions of the graded assignments, and are generally quite interactive due to the small size of tutorial groups.  Quizzes have similar structure to the final exam, so one may consider them to be "midterms" instead.  Quizzes and finals are closed-book (with help sheet).  There are no group projects for those taking CS4261.
+
+There is a significant amount of mathematical proofs in this module.  Lectures contain some proofs (or general ideas of the proofs), and students are expected to prove various statements in the graded assignments and exams.  Students may have an advantage if they are comfortable with general proving techniques, calculus (differentiation), combinatorics (permutations, counting), probability (expectation), mathematical analysis (metrics, compactness, limits), and the max-flow min-cut theorem.  About 50-80% of each graded assignment comprises of proof-based questions; the rest are computation questions.  Quizzes and exams have slightly less proof-based questions.
+
+Prof Yair is a good speaker and his lectures are quite engaging.  With sufficient attention, most of his lectures can be readily followed.  He focuses more on the intuition of the proofs rather than the details.  There were a few mathematical/logical errors in his lectures, which may be a source of confusion for students who try to work out the details of the proofs.  Overall, I've quite enjoyed Prof Yair's lectures.

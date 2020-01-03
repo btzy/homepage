@@ -1,0 +1,24 @@
+Taken in AY19/20 Sem 1 under Prof Cai Zhenning.
+
+This module covers various numerical methods with the intent of implementation on a computer.  The first four weeks of the module lay the foundation for computer arithmetic: floating point representation, finite-digit arithmetic, and numerical error.  Subsequently, various numerical methods are discussed: Gaussian elimination, LU matrix factorisation, Lagrange interpolation, divided differences, spline interpolation, least squares approximation, and Newton-Cotes formulas.  Many of these numerical methods are standalone chapters that do not depend on one another.
+
+The first four weeks of the module overlaps somewhat with the syllabus of CS2100 Computer Organisation, and hence may be revision for some students.
+
+This module has tutorial and lab sessions on alternate weeks.
+
+Graded components:
+- Midterm test (15%)
+- Final exam (60%)
+- Lab quiz (10%)
+- Homework (5%)
+- Tutorial and lab attendance (10%)
+
+Midterms and finals comprise of questions that are mainly computational or writing of pseudocode.  Finals contain a few relatively simple proof-based questions.  Unlike previous semesters, Prof Cai's exams are not straightforward copies of tutorial questions or past year exam questions.  Midterms and finals are closed book with helpsheet.
+
+Prof Cai is speaks clearly and proves various results with sufficient rigour during the lecture.  It is apparent that he has a good understanding on the mathematical underpinnings of the various numerical results discussed in the lectures.  Some proofs may be long and complicated, but revisiting his notes after the lecture is usually sufficient.  Prof Cai uploads lecture slides, handwritten calculation steps written during the lectures, and (summarised) lecture notes.  The lecture notes are good revision material for exam and helpsheet preparation.  Lectures were not webcasted for the first few weeks, but were subsequently webcasted due to requests by students.
+
+There is one graded homework assignment, consisting mainly of relatively difficult proof-based questions.  Students are given a few weeks to work on these questions.  These questions require a good understanding on the inner workings of the proofs covered in the lectures.
+
+Lab sessions are conducted in MATLAB, and they culminate in a lab quiz, which is a programming assignment conducted under timed constraints.  The quiz contains a single question, and students are expected to write a MATLAB function to calculate certain values from any given input.  The lab quiz is conducted using students' personal laptops (there is an option to do the quiz using lab computers, if desired), and any reference material (including Internet access) is permitted.  Students are prohibited only from asking for help on the Internet.  The lab quiz is easy for anyone with prior programming experience in any programming language.
+
+Personal note:  Overall, I had low expectations of this module due to the complaints in previous semesters of a steep bell-curve and exam questions being clones of tutorial questions or past year exam questions.  However, Prof Cai's iteration of this module was a pleasant surprise as there were some challenging questions in the homework assignment and final exam, and it was no longer possible to simply memorise answers for the final exam.

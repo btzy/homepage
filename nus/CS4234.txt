@@ -1,0 +1,22 @@
+Taken in AY19/20 Sem 1 under Prof Steven Halim.
+
+The first few weeks of this module introduces a number of NP-hard problems, including the vertex cover, set cover, Steiner tree, and travelling salesman problems.  This is followed by a few weeks of maximum flow and matching algorithms.  The last part of the module discusses stochastic local search and related heuristics.
+
+The first and second parts of the module contain a mix of theory and practice.  For most algorithms, a proof outline of its correctness and time complexity is covered; however, the primary focus is on time complexity, and proof details are usually secondary.
+
+Linear programming is covered in a black-box manner (as an opaque tool used to solve other problems).
+
+Graded components:
+- Problem sets ×4 (20%)
+- Midterm test (25%)
+- Mini project (15%)
+- Final exam (35%)
+- Tutorial participation (5%)
+
+There are four problem sets in this module; students are given about two weeks to complete each problem set.  Problem sets 1, 2, and 4 are conducted in competitive programming style on Kattis, where students are graded solely on the correctness and efficiency of their code.  No proofs of correctness is necessary; a submission is correct if it produces the correct output on all test cases.  Use of external libraries (e.g. Dinic's algorithm) is permitted and encouraged.  Problem set 3 is a written assignment where students are to do research on a particular combinatorial optimisation problem on their own.  Again, proofs are not the focus of this problem set; instead, the usage and time complexity of the algorithms analysed are more important.
+
+The mini project is a team project (four students per team) where teams are to design the best stochastic local search algorithms to solve two given NP-hard problems.  This is conducted over a few weeks on Kattis.  Students are graded primarily on their score obtained on Kattis; a few marks are also allocated to a presentation and report at the end of the project.
+
+The midterm test and final exam are open-book, and they cover a mix of theory and practical questions.  A large part of the papers (both midterms and finals) consist of questions that require students to devise an efficient algorithm that solves a (new) problem, where students are graded on the correctness and the efficiency (time complexity) of their algorithm.  These problems may or may not be NP-hard, but problems in P generally lend themselves to more interesting exam questions.  There were some multiple-choice questions when I took this module, but it was not so for previous iterations of this module that were also conducted by Prof Halim.
+
+While this module is not webcasted, Prof Halim's slides generally contain sufficient detail for use as revision notes.  Most lectures can be followed with some effort, and he adheres closely to his slides during lectures.  Emphasis is placed on the intuition behind the algorithms covered, as well as recognising problems where such algorithms may be used.  Prof Halim is rather obsessed with relationships and marriage (which can be seen when he covers the topic on matching problems).

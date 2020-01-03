@@ -1,0 +1,25 @@
+Taken in AY19/20 Sem 1 under Prof Chin Wei Ngan.
+
+The first half of the semester is on functional programming using Haskell, covering various concepts including pureness, abstract data types, higher order functions, functors, monads, and parsers.  Haskell-specific concepts include typeclasses and the Parsec library.
+
+The remaining part of the semester covers logic programming using Prolog, an introduction to OCaml, as well as a brief introduction to Scala.
+
+The content of the module is roughly split in this proportion:
+- Haskell (55%)
+- Prolog (25%)
+- OCaml (15%)
+- Scala (5%)
+
+Graded components:
+- Lab/written assignment ×4 (35%)
+- Midterm test (15%)
+- Final exam (45%)
+- Tutorial participation (5%)
+
+Weekly tutorial sessions are carried out in a computer lab - some questions are distributed to students a few days before the session, and the TA discusses the solutions during the session.  These questions are mainly implementation questions - students are expected to write code that conforms to some specified behaviour.
+
+There are four assignments - three of them are programming assignments in Haskell, and one is a research assignment on a programming language topic of the student's choice.  Tutorial sessions generally discuss questions of similar nature to the programming assignments, so a good grasp of the tutorial material should make the programming assignments manageable.  All four assignments are take-home assignments - students are given a few weeks to complete each assignment.
+
+Midterm and final exams are open-book.  Midterms consists of approximately 80% MCQs, and finals consists of approximately 50% MCQs.  Both midterms and finals scrutinise students' knowledge on the features and details programming languages covered in this module (with the exception of Scala, which is non-examinable), with questions such as "what is the inferred type and return value of the following expression" or "write a data type that implements this typeclass".  Most questions were unambiguous, but there was a problem with the open ended questions in the midterm test.
+
+Lectures are conducted at a somewhat slow pace, possibly because this is a level 2 module.  Prof Chin generally reads from his slides, and sometimes gives additional examples using the whiteboard.  He is approachable and will explain concepts to students that ask him questions during lecture breaks or during lectures, but it may be difficult seek midterm expected answers from him after the midterm.  Lectures are not webcasted, but his slides are generally sufficiently detailed for revision purposes.

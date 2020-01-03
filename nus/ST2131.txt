@@ -1,0 +1,18 @@
+Taken in AY19/20 Sem 1 under Prof Sun Rongfeng.
+
+This module is taught by the Department of Mathematics in semester 1, and by the Department of Statistics and Applied Probability in semester 2.  Students' experience may differ greatly depending on the department that is conducting this module.
+
+This module starts by introducing basic notions such as events, probability measures, random variables, expectation, and variance.  Both discrete distributions and continuous distributions are covered, and a some common distributions (the properties of simpler ones should be memorised for the exam) are given.  In the second half of the semester, more complicated topics are covered, such as transformations of random variables (of up to two dimensions), joint distributions, conditional distributions, bivariate normal distributions, covariance, and moment generating functions.
+
+Weekly tutorial sessions are conducted by TAs, which are usually graduate students.
+
+Graded components:
+- Midterm test (35%)
+- Final exam (50%)
+- Homework sets (15%)
+
+Midterms and finals are closed book without helpsheet.  Students are expected to derive formulas and steps as necessary, or otherwise memorise them.  The difficulty and length of the papers were reasonable, with adequate time to think about all questions.  Questions are generally calculation questions (i.e. very few proof-based questions).
+
+Lectures cover more content than necessary for the exams; notably, they include proofs for most of the formulas and results covered in this modules.  The first half of the semester is generally quite simple, but the pace increases in the second half of the semester.  Prof Sun adheres closely to his slides as he conducts the lectures.  Lectures are webcasted and slides are uploaded to Luminus.  The lecture slides are generally sufficient as revision material.
+
+There are weekly graded homework sets which come from the same book as the weekly tutorial questions; the homework sets are collected in batches approximately every three weeks.
