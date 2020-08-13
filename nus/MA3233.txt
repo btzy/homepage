@@ -1,0 +1,14 @@
+Taken in AY19/20 Sem 2 under Prof Wang Fei.  Modules in this semester were affected by the COVID-19 pandemic, and were required to end one week earlier than usual (i.e. week 13 was cancelled).  Final exams were required to be held online using video conferencing software.
+
+This module covers graph theory topics such as spanning trees, bipartite graphs, Eulerian and Hamiltonian graphs, connectivity, matching, and colouring.  Planar graphs was planned for the final week of the semester, but was cancelled due to the pandemic.  Despite the name of this module, this module is really only on graph theory.  Combinatorics is only used where necessary to prove some theorems in graph theory.
+
+Graded components:
+- Midterm test
+- Final exam
+- Two homework assignments
+
+Prof Wang creates his own lecture notes for this module, and lectures usually consist of him writing the proofs from his lecture notes onto the whiteboard.  The pace of the lectures is manageable, and most of the proofs can be comprehended during the lectures.  Since he provides his lecture notes to students, and his lecture notes are quite detailed, it is easy fill in any gaps in the content taught in the lectures by referring to the lecture notes.  He occasionally makes mistakes in his proofs, but he is able to recognise the errors and fix them when students point them out to him.  This could also be because he does not usually teach this module.
+
+Tutorials are conducted weekly by Prof Wang.
+
+The midterm and final exam contain a mix of proof and computational questions.  Computational questions, for the purpose of this module, usually ask the student to find a numeric property (e.g. the maximum independent set, or the chromatic number) of the given graph.  For the final exam, there were four questions, and each question consisted of three parts.  The first part of each question was an easy computational question.  The second part of each question was a proof question of moderate difficulty.  The final part of each question was a proof or construction question that was considerably more difficult than the other two.  However, the incremental difficulty of question parts was made known to students before the exam, and hence students were not caught by surprise.

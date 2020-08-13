@@ -1,0 +1,21 @@
+Taken in AY19/20 Sem 2 under Prof Martin Henz.  Modules in this semester were affected by the COVID-19 pandemic, and were required to end one week earlier than usual (i.e. week 13 was cancelled).
+
+All classes (both lectures and labs) could be attended online from early in the semester, going beyond the social distancing measures that were mandated by the school.
+
+This module starts by introducing formal specification of language semantics (inductive definitions; dynamic, static, and denotational semantics; type safety), and then moves on to virtual machines (compilation from the source language to an instruction set architecture, and execution of the compiled program), memory management (with a focus on garbage collection).  The last few classes dabble with records, exceptions, lazy evaluation, and object-oriented programming.
+
+Most of the course is taught in Source, the programming language created for CS1101S.  Source is a dynamically typed programming language that is mostly a subset of JavaScript.  The topics in this module are mostly geared towards higher-level programming or scripting languages - for example, memory management focuses on garbage collection (instead of the implementation of C-style malloc/free), record properties are taught with the semantics of Scheme (instead of C semantics), and object oriented programming is taught in a manner that differs from Java or C++.  There is a lack of focus on lower-level implementation concerns, such as stack-based records (C, C++), memory alignment, generic programming (Java, C#), templates (C++, Rust), pointers, and async/await (JavaScript, C#, Rust, Python).  In this module, we are often satisfied with JavaScript-like dynamic typing.
+
+Graded components:
+- Test 1 (20%)
+- Test 2 (20%)
+- Lab assignments (20%)
+- Project (40%)
+
+There is no final exam for this module (this was decided before bidding started, and hence was not due to the pandemic).  Tests 1 and 2 are scheduled approximately at the 1/3 and the 2/3 points of the module, and they test on the content covered in the lectures.  There are weekly lab classes up to week 10, and some of them have graded take-home programming assignments.  All labs are conducted in Source using Source Academy, the platform for teaching CS1101S, as an editor and execution environment.  Familiarity with Source is not required, but it may be useful to have some background in JavaScript.
+
+The lack of a final exam is somewhat odd for a computer science module.  This also means that material covered after Test 2 is effectively non-examinable.
+
+The project is pair work, and it is a programming project that spans the entire semester.  Students may choose their partners, but they must be from the same lab group.  There was a large range of projects to choose from - students may submit their preferences in the first week of class, but Prof Henz subsequently allocates a project to each team based on their preferences.  Many of the projects are features for Source Academy, intended to be integrated at the end of the semester.  This also means that many projects require TypeScript.
+
+The project culminates in a half-hour presentation in either weeks 12 or 13.  Students are expected to present their projects to Prof Henz and approximately 11 other students (each student has to attend 11 presentations apart from their own).
