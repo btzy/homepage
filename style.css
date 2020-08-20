@@ -40,6 +40,11 @@ a {
 a:hover {
     background-color: #FF0;
 }
+a.nolinkformat {
+    background-color: inherit;
+    color: inherit;
+    text-decoration: inherit;
+}
 .keyname {
     font-weight: bold;
 }
