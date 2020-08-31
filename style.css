@@ -34,11 +34,29 @@
 body {
     font-family: "Source Sans Pro";
 }
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #222;
+        color: #DDD;
+    }
+}
 a {
     background-color: #FFB;
 }
 a:hover {
     background-color: #FF0;
+}
+@media (prefers-color-scheme: dark) {
+    a {
+        color: #DD2;
+        background-color: #226;
+    }
+    a:visited {
+        color: #D82;
+    }
+    a:hover {
+        background-color: #22D;
+    }
 }
 a.nolinkformat {
     background-color: inherit;
@@ -52,6 +70,11 @@ a.nolinkformat {
     font-style: italic;
     color: #666;
 }
+@media (prefers-color-scheme: dark) {
+    .more {
+        color: #999;
+    }
+}
 .italicname {
     font-style: italic;
 }
@@ -60,6 +83,11 @@ a.nolinkformat {
     vertical-align: middle;
     position: relative;
     top: -0.1em;
+}
+@media (prefers-color-scheme: dark) {
+    .typeicon {
+        filter: invert(0.867);
+    }
 }
 .semibold {
     font-weight: 600;
@@ -88,6 +116,11 @@ a.nolinkformat {
 }
 .detailedlist>li>.date {
     color: #888;
+}
+@media (prefers-color-scheme: dark) {
+    .detailedlist>li>.date {
+        color: #777;
+    }
 }
 
 /* Modules */
