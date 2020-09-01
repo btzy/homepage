@@ -63,6 +63,16 @@ a.nolinkformat {
     color: inherit;
     text-decoration: inherit;
 }
+hr {
+    border: none;
+    height: 1px;
+    background-color: #999;
+}
+@media (prefers-color-scheme: dark) {
+    hr {
+        background-color: #777;
+    }
+}
 .keyname {
     font-weight: bold;
 }
