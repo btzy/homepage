@@ -1,0 +1,16 @@
+Taken in AY20/21 Sem 1 under Prof Jonathan Mark Scarlett.  Due to the COVID-19 pandemic, there were no physical lectures, and webcasts of the previous semester were provided instead.  Tutorials were conducted on Zoom and recorded.
+
+This module is an introduction to machine learning.  It starts off with linear binary classification (perceptron algorithm, support-vector machines, logistic regression), and then moves on to linear regression.  The latter half of the semester covers non-linear machine learning, such as the kernel method, convex optimisation, and boosting (AdaBoost algorithm).  Towards the end of the semester, there is a small chapter on "probably approximately correct" guarantees, and another small chapter on k-means clustering.  The module does not go very deeply into most of the topics covered, and most of the chapters in the latter half of the semester are relatively self-contained.
+
+Graded components:
+- Midterm test (25%)
+- Project (25%)
+- Final exam (50%)
+
+The midterm test and final exam are open book, and are conducted under usual timed conditions.
+
+The project is completed individually, and it requires students to read up on a topic not covered in the module.  The topic is chosen by the student from a short list of topics provided by Prof Scarlett.  Students are to write a report (in the style of his lecture notes) about the topic that they have chosen.  The style of the project was somewhat different from the previous year, perhaps because the module was conducted online this semester.
+
+Prof Scarlett's style of teaching and exams are rather different from the typical mathematics module.  Instead of focusing on proofs or calculations, Prof Scarlett prefers giving students an intuitive understanding of the module content.  This is also reflected in the test and exam — most questions only require students to "explain briefly" the given phenomena or their answers, and one or two sentences are sufficient explanation.  Formal proofs are almost never required in the test and exam.
+
+Workload for this module seems to be relatively light, apart from the project.  However, the project was released quite early into the semester, so students had the flexibility to plan their time appropriately.

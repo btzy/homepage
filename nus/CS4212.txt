@@ -1,0 +1,41 @@
+Taken in AY20/21 Sem 1 under Prof Wong Weng Fai.  Due to the COVID-19 pandemic, all lectures and tutorials were livestreamed via Zoom, and students could either attend in person or online.  However, the final quiz required students to physically come to class.
+
+This module covers all the main aspects of a compiler.
+
+The module starts with regular languages (deterministic finite automata, nondeterministic finite automata and regular expressions) and context-free languages (context-free grammars and pushdown automata), but more quickly and with less attention to formal proofs than CS4232.  Regular languages are used for lexical analysis, while context-free languages are used for parsing.  The module then diverges from CS4232 and goes into semantic analysis and intermediate code generation.  There is a small chapter on garbage collection.  Finally, the module goes to code generation, with a focus on register allocation.  Some middle-end analysis and optimisations are covered, such as liveness analysis, control flow analysis, dead code analysis, and loop analysis.
+
+Graded components:
+- Written assignment 1 (10%)
+- Written assignment 2 (10%)
+- In-class pop quizzes (10%)
+- Programming assignment 1 (15%)
+- Programming assignment 2 (15%)
+- Programming assignment 3 (20%)
+- Final quiz (20%)
+
+There are four types of graded components:
+- Written assignments are take-home assignments, and students have more than a week for each of them.  They contain open-ended questions — the first assignment required writing code for a parser, and the second assignment required looking through the source code of GCC.
+- In-class pop quizzes are meant to check students' understanding of the lecture material, and are conducted immediately after lectures.  Each pop quiz tests material that was covered in the lecture on the same day, thus requiring students to pay attention to the lecture.  The first few pop quizzes were due one hour after the lecture/tutorial ended, but this was changed to five hours after the lecture/tutorial ended (presumably due to student complaints).  (Tutorials were immediately after lectures, which effectively means a three-hour contiguous session.)
+- The programming assignments together require students individually to implement a fully-functional compiler from a subset of Java (called Jlite) to ARMv7 assembly.  Since these programming assignments are related and fairly complicated, one may view these assignments as a single semester-long programming project.
+- The final quiz is a two-hour open-book exam, taking up the entire lecture/tutorial slot for week 13, and covering everything that was taught in the module.
+
+There is no final exam, in the sense that this module does not have an official final exam during the examination weeks.  However, the final quiz in week 13 is conducted in the style of a typical final exam.
+
+There is no group work in this module.
+
+The first few lectures overlap with CS4232 Theory of Computation, so it might be beneficial to take both modules in the same semester.  This module covers the overlapping material much more quickly, focusing on algorithms and implementation but skipping over most of the formal proofs.
+
+Lectures were rather fast-paced with quite a lot of content to cover, so a good amount of concentration is necessary to keep up.  The slides are fairly detailed and quite example-driven, but Prof Wong tends to gloss over details, which sometimes made it difficult to keep up.  I would have preferred this module to sacrifice some breadth in order to add depth and rigour to the more fundamental concepts.
+
+Each tutorial session immediately follows each lecture session.  Prof Wong generally uploads the tutorial sheet a week before the tutorial, to allow students ample time to work on the questions.  Students are expected to present their answers during the tutorial sessions — for each tutorial question Prof Wong will wait for some student to present it, playing the waiting game if necessary, failing which the tutorial question is likely to turn into a pop quiz that would be due on the same day.
+
+The project forms the bulk of the grade for this module.  The project is divided into three parts, where each part builds onto the previous one, culminating in a compiler from Jlite to ARM assembly.  The assembly code is then assembled using GCC, and run in the gem5 simulator.  The project must be written in Java.  The project is divided into the three programming assignments as follows:
+1. Jlite parser using JFlex (lexer generator) and CUP (parser generator)
+2. Intermediate code generator
+3. Assembly code generator (including a register allocator)
+
+The primary grading criteria is the correctness of the generated code (i.e. whether it compiles Jlite to assembly code that has the correct behaviour), and it is graded by the use of hidden test cases.  Compiler optimisations are supposedly awarded bonus marks.
+
+As one might expect, the project is rather time-consuming, and indeed does form the bulk of the workload of this module.  Students with ample software engineering experience are likely to have an advantage for the project.  As each programming assignment builds on the previous one, it is rather important to get programming assignments 1 and 2 as correct as possible, so as to minimise compounded errors in assignment 3.  Students do not seem to receive feedback for any of the programming assignments before the end of the semester, so it may be difficult to detect and fix bugs from each assignment before starting work on the next one.
+
+Question sheets of the programming assignments do not generally specify the Jlite language as clearly as a language specification would be expected to.  In my opinion, the languages used in CS3203 Software Engineering Project were more clearly specified than Jlite.  Where unspecified or underspecified, it appears that Jlite is expected to mimic the behaviour of Java.  There were some complaints from students due to erroneous requirements in the question sheets of some of the programming assignments, particularly in relation to the formal specifications of the type-checking rules.  It might be advisable to ignore those formal rules and instead follow Java's type-checking rules.  Ultimately, Prof Wong doesn't focus much on theory or formality of specifications, and instead places emphasis on intuition or "naturalness" based on the Java programming language.  The student should hence take this into consideration when working on the project.

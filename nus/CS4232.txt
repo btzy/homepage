@@ -1,0 +1,27 @@
+Taken in AY20/21 Sem 1 under Prof Sanjay Jain.  All lectures were recorded, and one of the tutorial groups was conducted online.
+
+This module can be roughly split into four parts (in chronological order):
+- Regular languages (deterministic finite automata, nondeterministic finite automata and regular expressions)
+- Context-free languages (context-free grammars and pushdown automata)
+- Turing machines
+- Computational complexity (time and space complexity, NP-completeness)
+
+Graded components:
+- Midterm 1 (25%)
+- Midterm 2 (25%)
+- Final exam (40%)
+- Tutorial presentations (10%)
+
+There is no group work in this module.
+
+The midterms and exam are open book (though this may be a result of conducting them online over Zoom).
+
+The midterm tests and exam contain a mix of construction and proof questions.  Construction questions are those that ask for an explicit automaton or grammar that exhibits a certain property (e.g. accepts a given language), and are generally simpler.  Proof questions are generally tougher, and require formal proofs.
+
+This module is taught rather rigorously -- formal proofs are covered during the lectures, and some questions in the tests and exam require students to prove given statements.  However, Prof Jain seems to be rather lenient with awarding partial marks for proof questions -- if the general idea of the proof is correct, the student should obtain most of the marks for the question.
+
+Most of Prof Jain's lectures are moderately paced, and he explains each concept well, mostly without making assumptions about students' prior knowledge.  This makes his lectures quite manageable most of the time.
+
+During tutorials, Prof Jain chooses a student to present each tutorial question, and these presentations form the tutorial presentation graded component.  Students will get full marks for the tutorial presentation component as long as they present whenever they are asked to do so.
+
+As this module is an elective for mathematics and applied mathematics majors, a significant proportion of students are from those majors.  This might possibly lead to an overall increased competition in this module.
