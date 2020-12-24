@@ -1,0 +1,9 @@
+defaults:
+  -
+    scope:
+      path: "nus/*.md"
+    values:
+      layout: "nus_module_review"
+      permalink: "/nus/:basename.html"
+
+include: ["nus"]
