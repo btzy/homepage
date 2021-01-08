@@ -137,3 +137,24 @@ hr {
 .modulegroup {
     font-weight: bold;
 }
+
+/* Blog pages */
+.blog>.date {
+    color: #888;
+}
+@media (prefers-color-scheme: dark) {
+    .blog>.date {
+        color: #777;
+    }
+}
+.blog .imgbox {
+    text-align: center;
+}
+.blog .imgbox>img {
+    max-width: 100%;
+}
+@media (prefers-color-scheme: dark) {
+    .blog .imgbox.white>img {
+        filter: invert(0.867);
+    }
+}
