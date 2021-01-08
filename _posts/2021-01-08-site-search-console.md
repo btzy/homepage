@@ -8,7 +8,7 @@ Recently, I've noticed a trend on Google Search Console, which keeps statistics 
 My website contains a list of things that I have done or achieved, mostly of academic nature --- like a resume, but without any page limit.  It also contains reviews of most of the modules that I have taken at NUS (which are also posted on NUSMods), and cheatsheets I've made that are good enough (in my opinion) to share.  These three groups of people would hence be interested in visiting my website:
 - Random people who want to find out more about me (e.g. recruiters), who treat my website as an extended resume
 - Students looking for help deciding on modules to read
-- Students looking for a cheatsheet for the modules that they are currently reading
+- Students looking for a cheatsheet for a module that they are currently reading
 
 Let's look at the statistics from Google Search Console and see if we can find any trends.
 
@@ -24,7 +24,7 @@ Peaks 1 and 5 correspond to module registration periods, where students have to 
 
 Peak 4 corresponds to the reading week and final examination period, where students do their last minute cramming for their exams.  Apparently, students think that cheatsheets from seniors are useful at this point.
 
-Peak 2 roughly corresponds to weeks 7-8 of the semester, which is about the time midterm tests are conducted.  A smaller peak than the final exam, probably because not all modules have midterms.
+Peak 2 roughly corresponds to weeks 7-8 of the semester, which is about the time when midterm tests are conducted.  It's a smaller peak than the final exam, probably because not all modules have midterms.
 
 Peak 3 roughly corresponds to weeks 11-12 of the semester.  It's small, but noticeable enough.  I'm not too sure why this peak arose, but perhaps pandemic-related arrangements led to some final exams being changed to in-class tests on those weeks.  Or maybe it's just random noise and I'm reading too much into the data.
 
@@ -34,11 +34,11 @@ Next, let's look at some of the pages most accessed:
 
 <div class="imgbox white"><img src="/post-assets/img/site-search-console-pages.png" alt="Pages" width="583.333" /></div>
 
-The main page has the most clicks by far, and this is probably expected because that's where you'd end up at if you searched my name on Google, and also where most information is.  You'd only go to a specific page if you were looking for information about a particular module.
+The main page has the most clicks by far, and this is probably expected because that's where you'd end up at if you searched my name on Google, and that's also where most information resides at.  You'd only go to a specific page if you were looking for information about a particular module.
 
 The runner-up is my new-ish page on advice for NUS computer science students.  This is somewhat surprising, given that this page was put up only in August 2020.  Apparently students want to see my (perhaps questionable) advice.  More on this later.
 
-In the remaining eight pages, those that end with ".pdf" are cheatsheets (they are written in LaTeX but I've only uploaded the compiled PDF files), and those that end with ".txt" are reviews.  The review webpages were recently migrated to remove the ".txt" extension and share a site-wide theme, but that broke Google's indexing somewhat, so I've probably gotten far fewer-than-usual impressions for the new semester.
+In the remaining eight pages, those that end with ".pdf" are cheatsheets (they are written in LaTeX but I've only uploaded the compiled PDF files), and those that end with ".txt" are reviews.  The review webpages were recently migrated to remove the ".txt" extension and share a site-wide theme, but that broke Google's indexing somewhat, so I've probably gotten far fewer impressions than usual for the new semester.
 
 Perhaps unsurprisingly, the CS2106 and MA1521 cheatsheets got the most clicks --- both have a large class size (of >200 students each), and I was a teaching assistant for CS2106.
 
@@ -48,13 +48,13 @@ Here are the most searched queries:
 
 <div class="imgbox white"><img src="/post-assets/img/site-search-console-queries.png" alt="Search queries" width="585.333" /></div>
 
-Not too surprising here --- most people who search for my name would probably want to take a look at my website.  And if they aren't looking for me, they're probably here for module reviews or cheatsheets.  CS2106 is probably not surprising, since it's noted on my website that I was a teaching assistant for this module.  CS3203 and GES1019 --- maybe there's a shortage of other reviews for these modules?
+Not too surprising here --- most people who search for my name would probably want to take a look at my website.  And if they weren't looking for me, they're probably here for module reviews or cheatsheets.  CS2106 is probably not surprising, since it's noted on my website that I was a teaching assistant for this module.  CS3203 and GES1019 --- maybe there's a shortage of other reviews for these modules?
 
 ## The "Advice" page
 
 This page merits special mention because it's the most clicked page apart from the main page, even though it was only added in August 2020.  It contains some of my own advice and observations from my studies at NUS, mostly geared towards students studying computer science.
 
-Here's the 6-month clicks and impressions chart like the previous one, but this chart only contains the data for the advice page:
+Here's the 6-month clicks and impressions chart like the previous one, but this chart contains only the data for the advice page:
 
 <div class="imgbox white"><img src="/post-assets/img/site-search-console-advice-trends.png" alt="Trends for advice page" width="758.667" /></div>
 
