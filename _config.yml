@@ -7,3 +7,7 @@ defaults:
       permalink: "/nus/:basename.html"
 
 include: ["nus"]
+
+url: "https://bernardteo.me"
+plugins:
+  - jekyll-sitemap
