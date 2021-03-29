@@ -25,7 +25,7 @@ layout: default
 <p><span class="keyname">Blog Posts:</span></p>
 <ul>
 {% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a> <span class="blog-pre">&mdash; {{ post.date | date: "%-d %B %Y" }}</span></li>
 {% endfor %}
 </ul>
 </div>

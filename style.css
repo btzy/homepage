@@ -116,6 +116,16 @@ hr {
     font-weight: bold;
 }
 
+/* Blog list on main page */
+.blog-pre {
+    color: #888;
+}
+@media (prefers-color-scheme: dark) {
+    .blog-pre {
+        color: #777;
+    }
+}
+
 /* Detailed List */
 .detailedlist>li {
     margin-top: 0.8em;
