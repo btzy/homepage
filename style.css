@@ -99,6 +99,17 @@ hr {
         filter: invert(0.867);
     }
 }
+.smalltypeicon {
+    width: 0.6em;
+    vertical-align: middle;
+    position: relative;
+    top: -0.1em;
+}
+@media (prefers-color-scheme: dark) {
+    .smalltypeicon {
+        filter: invert(0.867);
+    }
+}
 .semibold {
     font-weight: 600;
 }
