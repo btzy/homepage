@@ -44,14 +44,27 @@ scripts:
 <ul class="detailedlist">
 
 <li>
-<div class="header">Software Engineer Intern (Core Development) at Jump Trading</div>
+<div class="header">Software Engineer Intern (Core Development) at Hudson River Trading (HRT)</div>
+<div class="date">May &ndash; Aug 2021</div>
+<div class="content"><p>This was an eleven-week summer internship with the core development team at HRT's Singapore office, and I worked mostly using modern C++.</p>
+
+<p>I extended their common market data framework with the ability for dual-process market data feeds to perform a rollover of the order book.  Order and trade data needed to be obtained from the two processes and coordinated to perform the rollover.  I then implemented this feature for around ten markets that required rollover functionality, enabling those market data feeds to run in the lower-latency dual-process mode.</p>
+    
+<p>I also worked on an internal tool that intelligently explains HRT- and trading-specific terms, incorporating domains such as symbols, log files, hosts, and a glossary.  This involved calling into various code in the core trading libraries, as well as implementing new functionality in the trading libraries to get the information I required.  I built a CLI as well as a web frontend for this tool, allowing HRT employees to easily look up any term.</p>
+    
+<p>I also completed two other smaller projects:  I rewrote a C++ compile-time interface detection library to support inherited interfaces using decltype/declval-style detection, which required reading through and fixing a number of complex libraries that depended on the old interface detection library in esoteric ways.  The other project was to write a tool to playback UDP and TCP packets that were previously captured from an exchange, in order to simulate the exchange for testing market data feeds.  This required ensuring correct packet ordering across multi-connection feeds, and in particular those that required the coordination of simultaneous UDP and TCP connections.</p></div>
+<div class="content"><span class="semibold">Technologies:</span> C++20, Rust</div>
+</li>
+
+<li>
+<div class="header">Software Engineering Intern (Core Development) at Jump Trading</div>
 <div class="date">May &ndash; July 2020</div>
 <div class="content">This was a ten-week internship at the Singapore office.  I built a low-latency order gateway to enable Jump to trade on a new exchange.  I also worked on improving various tools for testing and analysing past data, including using C++20 coroutines to bring usability improvements to some of these tools.  The internship culminated with a presentation on C++20 coroutines to the core development team in Jump's Asian offices.</div>
 <div class="content"><span class="semibold">Technologies:</span> C++14/17/20</div>
 </li>
 
 <li>
-<div class="header">Software Engineer Intern (Core Development) at Jump Trading</div>
+<div class="header">Software Engineering Intern (Core Development) at Jump Trading</div>
 <div class="date">June &ndash; August 2019</div>
 <div class="content">This internship comprised a four-week training programme at the Chicago headquarters, and then six weeks of work at the Singapore office.  I worked on the portion of the trading platform that receives market data, which is used by trading teams to efficiently receive and parse data from exchanges.  My work improved the compilation time and execution performance of the trading platform.</div>
 <div class="content"><span class="semibold">Technologies:</span> C++14/17</div>
