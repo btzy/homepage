@@ -134,6 +134,14 @@ hr {
 .detailedlist>li>.header {
     font-weight: bold;
 }
+.detailedlist>li>.content {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+.detailedlist>li>.content>p {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
 .detailedlist>li>.date {
     color: #888;
 }
