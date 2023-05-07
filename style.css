@@ -165,14 +165,19 @@ hr {
         color: #777;
     }
 }
-.blog .imgbox {
+
+/* Images */
+.imgbox {
     text-align: center;
 }
-.blog .imgbox>img {
+.imgbox>img {
     max-width: 100%;
 }
 @media (prefers-color-scheme: dark) {
-    .blog .imgbox.white>img {
+    .imgbox.white>img {
         filter: invert(0.867);
+    }
+    .imgbox.white-preservecolors>img {
+        filter: invert(0.867) hue-rotate(180deg);
     }
 }
