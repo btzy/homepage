@@ -197,13 +197,13 @@
 }
 
 /* Countries/territories I've been to */
-.my, .th, .id, .aux, .cnx, .kr, .pt, .es, .it, .us, .mm, .ru, .gb, .is, .ch, .at, .nlx, .de, .gr
+.my, .th, .id, .aux, .cnx, .kr, .pt, .es, .it, .us, .mm, .ru, .gb, .is, .ch, .at, .nlx, .de, .gr, .hu, .sk
 {
    fill: #60f060;
 }
 
 /* Countries/territories I've only transited in */
-.hk, .ae, .qa, .jp
+.hk, .ae, .qa, .jp, .fi
 {
    fill: #e0e060;
 }
