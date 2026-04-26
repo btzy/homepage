@@ -197,19 +197,19 @@
 }
 
 /* Countries/territories I've been to */
-.my, .th, .id, .aux, .cnx, .kr, .pt, .es, .it, .us, .mm, .ru, .gb, .is, .ch, .at, .nlx, .de, .gr, .hu, .sk
+.my, .th, .id, .aux, .cnx, .kr, .pt, .es, .it, .us, .mm, .ru, .gb, .is, .ch, .at, .nlx, .de, .gr, .hu, .sk, .tw, .hk, .jp, .ca, .vn, .frx
 {
    fill: #60f060;
 }
 
 /* Countries/territories I've only transited in */
-.hk, .ae, .qa, .jp, .fi
+.ae, .qa, .fi
 {
    fill: #e0e060;
 }
 
 /* Countries/territories I've only passed through (without getting off) */
-.li, .frx, .be
+.li, .be
 {
    fill: #e0c090;
 }
